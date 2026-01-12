@@ -35,6 +35,6 @@ O menu contém as seguintes opções:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Bash**
 - **Linux**
