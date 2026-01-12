@@ -1,0 +1,4 @@
+- [ ] Melhorar organização do menu
+- [ ] Adicionar cores ao terminal
+- [ ] Tratar erros após input inválido
+- [ ] Novas funções
